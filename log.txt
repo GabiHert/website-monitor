@@ -1,0 +1,33 @@
+17/04/2022 21:51:08 --- https://www.alura.com.br/- ONLINE
+17/04/2022 21:51:09 --- https://www.google.com.br- ONLINE
+17/04/2022 21:51:10 --- https://random-status-code.herokuapp.com/- ONLINE
+17/04/2022 21:57:20 --- https://www.alura.com.br/- ONLINE
+17/04/2022 21:57:21 --- https://www.google.com.br- ONLINE
+17/04/2022 21:57:22 --- https://random-status-code.herokuapp.com/- ONLINE
+17/04/2022 21:57:28 --- https://www.alura.com.br/- ONLINE
+17/04/2022 21:57:28 --- https://www.google.com.br- ONLINE
+17/04/2022 21:57:29 --- https://random-status-code.herokuapp.com/- OFFLINE
+17/04/2022 21:57:35 --- https://www.alura.com.br/- ONLINE
+17/04/2022 21:57:35 --- https://www.google.com.br- ONLINE
+17/04/2022 21:57:36 --- https://random-status-code.herokuapp.com/- ONLINE
+17/04/2022 21:57:41 --- https://www.alura.com.br/- ONLINE
+17/04/2022 21:57:41 --- https://www.google.com.br- ONLINE
+17/04/2022 21:57:43 --- https://random-status-code.herokuapp.com/- OFFLINE
+17/04/2022 22:05:52 --- https://www.alura.com.br/- status code:200- ONLINE
+17/04/2022 22:05:52 --- https://www.google.com.br- status code:200- ONLINE
+17/04/2022 22:05:54 --- https://random-status-code.herokuapp.com/- status code:418- OFFLINE
+17/04/2022 22:05:59 --- https://www.alura.com.br/- status code:200- ONLINE
+17/04/2022 22:06:00 --- https://www.google.com.br- status code:200- ONLINE
+17/04/2022 22:06:01 --- https://random-status-code.herokuapp.com/- status code:200- ONLINE
+18/04/2022 08:45:33 --- https://www.alura.com.br/- status code:200- ONLINE
+18/04/2022 08:45:33 --- https://www.google.com.br- status code:200- ONLINE
+18/04/2022 08:45:39 --- https://random-status-code.herokuapp.com/- status code:200- ONLINE
+18/04/2022 08:45:44 --- https://www.alura.com.br/- status code:200- ONLINE
+18/04/2022 08:45:44 --- https://www.google.com.br- status code:200- ONLINE
+18/04/2022 08:45:45 --- https://random-status-code.herokuapp.com/- status code:404- OFFLINE
+18/04/2022 08:45:50 --- https://www.alura.com.br/- status code:200- ONLINE
+18/04/2022 08:45:51 --- https://www.google.com.br- status code:200- ONLINE
+18/04/2022 08:45:52 --- https://random-status-code.herokuapp.com/- status code:418- OFFLINE
+18/04/2022 08:46:00 --- https://www.alura.com.br/- status code:200- ONLINE
+18/04/2022 08:46:00 --- https://www.google.com.br- status code:200- ONLINE
+18/04/2022 08:46:01 --- https://random-status-code.herokuapp.com/- status code:200- ONLINE
